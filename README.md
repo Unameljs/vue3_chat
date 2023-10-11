@@ -5,12 +5,12 @@
 pnpm install
 ```
 
-启动开发环境
+## 启动开发环境
 ```base
 pnpm dev
 ```
 
-打包
+## 打包
 ```base
 pnpm build
 ```
